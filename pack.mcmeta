@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "Fixes cobblestone recipes to accept normal cobblestone or cobbled deepslate",
+        "pack_format": 7,
+        "min_format": 7,
+        "max_format": 94.1,
+        "supported_formats": [7,94.1]
+    }
+}
